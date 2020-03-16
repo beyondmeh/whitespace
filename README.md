@@ -10,12 +10,15 @@ Only plaintext (ASCII only) files are supported at the moment, such as those mad
 
 #### Encode
 
-  node whitespace.js [INPUT FILE] [OUTPUT FILE]
+```console
+$ node whitespace.js [INPUT FILE] [OUTPUT FILE]
+```
 
 #### Decode
 
-  node whitespace.js [ENCODED FILE]
-
+```console
+$ node whitespace.js [ENCODED FILE]
+```
 ### See Also
 
   * https://hackaday.com/2018/04/15/hide-secret-messages-in-plain-sight-with-zero-width-characters/
