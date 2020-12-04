@@ -1,6 +1,6 @@
 {
   "name": "whitespace",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Hides secret messages using whitespace only (invisible) characters",
   "main": "whitespace.js",
   "dependencies": {
