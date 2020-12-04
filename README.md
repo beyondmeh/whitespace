@@ -29,6 +29,6 @@ $ node whitespace.js [ENCODED FILE]
 ## Author
 Copyright © 2020 Timothy Keith
 
-Licensed under the [MIT license](LICENSE).
+Licensed under the [ISC license](LICENSE).
 
 This is free software: you are free to change and redistribute it. There is NO WARRANTY, to the extent permitted by law.
