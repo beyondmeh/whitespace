@@ -1,11 +1,19 @@
 {
   "name": "whitespace",
-  "version": "0.1",
+  "version": "1.0",
   "description": "Hides secret messages using whitespace only (invisible) characters",
   "main": "whitespace.js",
   "dependencies": {
     "lodash": "^4.17.15"
   },
+  "bugs": { 
+    "url" : "https://github.com/owner/project/issues"
+  },
+  "keywords": [
+    "steganography",
+    "whitespace"
+  ],
+  "homepage": "https://github.com/keithieopia/whitespace",
   "repository": {
     "type": "git",
     "url": "https://github.com/keithieopia/whitespace"
