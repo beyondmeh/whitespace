@@ -1,0 +1,15 @@
+{
+  "name": "whitespace",
+  "version": "0.1",
+  "description": "Hides secret messages using whitespace only (invisible) characters",
+  "main": "whitespace.js",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keithieopia/whitespace"
+  },
+  "author": "Timothy Keith",
+  "license": "ISC"
+}
