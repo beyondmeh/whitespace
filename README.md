@@ -27,7 +27,7 @@ $ node whitespace.js [ENCODED FILE]
   * http://mewbies.com/steganography/snow/how_to_conceal_a_message_in_a_text_file.htm
 
 ## Author
-Copyright © 2020 Timothy Keith
+Copyright © 2020-2023 BeyondMeh
 
 Licensed under the [ISC license](LICENSE).
 
